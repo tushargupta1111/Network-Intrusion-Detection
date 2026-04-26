@@ -1,4 +1,4 @@
-# Network Anomaly Detection using XGBoost
+# Network-Intrusion-Detection using XGBoost
 
 ## Project Overview
 This project enhances the performance of an intrusion detection system using the **XGBoost classifier** through systematic hyperparameter tuning. The project leverages the **CSE-CIC-IDS 2018 dataset**, a benchmark dataset in the cybersecurity domain for network intrusion detection and classification. The implementation employs **GridSearchCV** and **RandomizedSearchCV** to optimize hyperparameters and improve model performance metrics including accuracy, precision, recall, and F1-score.
